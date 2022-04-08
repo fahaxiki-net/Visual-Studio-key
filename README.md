@@ -8,7 +8,7 @@ Enterprise [企业版]
 如果对你有帮助还请留下一个 Star
 
 # Visual Studio 2022
-Professional key：TD244-P4NB7-YQ6XK-Y8MMM-YWV2J 
+Professional key：TD244-P4NB7-YQ6XK-Y8MMM-YWV2J  
 Enterprise key：VHF9H-NXBBB-638P6-6JHCY-88JWH
 
 # Visual Studio 2019
